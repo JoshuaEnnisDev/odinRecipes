@@ -1,0 +1,30 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2{
+    color:wheat
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    color: cornflowerblue;
+    
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+li a{
+    padding-right: 40px;
+    
+    font-size: 22px;
+   
+}
+p{    
+    text-align: center;
+}
